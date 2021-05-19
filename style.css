@@ -3,6 +3,7 @@
           box-sizing: border-box;
   margin: 0;
   padding: 0;
+  font-family: 'Lato', sans-serif;
 }
 
 :root {
@@ -14,12 +15,12 @@
 }
 
 .mainPageWrapper {
-  font-family: "Lato", sans-serif;
+  
   width: 100%;
   height: auto;
   margin-top: 17.5rem;
 }
-
+/*
 h1 {
   font-family: "BrownMedium", sans-serif;
 }
@@ -36,6 +37,7 @@ p {
   font-family: "NeueHelvetica", sans-serif;
   word-break: break-all;
 }
+*/
 
 /* Desktop Navigation*/
 .navigationWrapper {
@@ -249,7 +251,6 @@ p {
 
 .navigationWrapper__dropbtn {
   background-color: white;
-  font-family: "Lato", sans-serif;
   color: #0672B1;
   font-size: 2rem;
   padding-bottom: 0.5rem;
