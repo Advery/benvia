@@ -527,7 +527,7 @@ p {
   text-transform: uppercase;
   width: auto;
 }
-.mainTitle__title p {
+div.mainTitle__title p {
   font-size: 2rem;
   color: #333;
 }
