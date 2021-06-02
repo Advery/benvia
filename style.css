@@ -3,7 +3,6 @@
           box-sizing: border-box;
   margin: 0;
   padding: 0;
-  /*test*/
 }
 
 :root {
@@ -808,6 +807,7 @@ p {
 
 .homescreenImage {
   width: 100%;
+  height: 45rem;
   background-color: pink;
   margin-bottom: 7.5rem;
 }
@@ -927,28 +927,6 @@ p {
   margin: 0;
 }
 
-.countryCase__button {
-  width: 17.5rem;
-  height: 5rem;
-  background-color: #3EAC61;
-  color: white;
-  border-radius: 2.5rem;
-  border: none;
-  border-color: none;
-  font-size: 2rem;
-  margin-top: 4rem;
-  outline: none;
-}
-
-.countryCase__button:hover {
-  width: 18rem;
-  height: 5rem;
-  font-size: 2.25rem;
-  background-color: white;
-  color: #3EAC61;
-  border: 2px solid #3EAC61;
-}
-
 .currentCountrySlider {
   margin-top: 8rem;
 }
@@ -978,28 +956,6 @@ p {
 
 .currentCountrySlider__cardContent {
   padding: 4.5rem 4.5rem 4.5rem 4.5rem;
-}
-
-.currentCountrySlider__button {
-  width: 17.5rem;
-  height: 5rem;
-  background-color: #3EAC61;
-  color: white;
-  border-radius: 2.5rem;
-  border: none;
-  border-color: none;
-  font-size: 2rem;
-  margin-top: 4rem;
-  outline: none;
-}
-
-.currentCountrySlider__button:hover {
-  width: 18rem;
-  height: 5rem;
-  font-size: 2.25rem;
-  background-color: white;
-  color: #3EAC61;
-  border: 2px solid #3EAC61;
 }
 
 .currentCountrySlider__buttonBox {
@@ -1054,28 +1010,6 @@ p {
 
 .successStoryBox__text:nth-child(1) {
   margin-right: 2rem;
-}
-
-.successStoryBox__button {
-  width: 17.5rem;
-  height: 5rem;
-  background-color: #3EAC61;
-  color: white;
-  border-radius: 2.5rem;
-  border: none;
-  border-color: none;
-  font-size: 2rem;
-  margin-top: 4rem;
-  outline: none;
-}
-
-.successStoryBox__button:hover {
-  width: 18rem;
-  height: 5rem;
-  font-size: 2.25rem;
-  background-color: white;
-  color: #3EAC61;
-  border: 2px solid #3EAC61;
 }
 
 .otherProjectsSlider__title {
@@ -2035,5 +1969,28 @@ footer {
   font-weight: bold;
   text-decoration: none;
   color: white;
+}
+
+.main__button {
+  width: 17.5rem;
+  height: 5rem;
+  background-color: #3EAC61;
+  color: white;
+  border-radius: 2.5rem;
+  border: none;
+  border-color: none;
+  font-size: 2rem;
+  margin-top: 4rem;
+  outline: none;
+  cursor: pointer;
+}
+
+.main__button:hover {
+  width: 18rem;
+  height: 5rem;
+  font-size: 2.25rem;
+  background-color: white;
+  color: #3EAC61;
+  border: 2px solid #3EAC61;
 }
 /*# sourceMappingURL=style.css.map */
