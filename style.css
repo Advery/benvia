@@ -1300,7 +1300,7 @@ p {
           align-items: center;
   width: 100%;
 }
-
+/*
 .newsBox__cardButton {
   width: 17.5rem;
   height: 5rem;
@@ -1335,6 +1335,7 @@ p {
   text-decoration: none;
   color: #3EAC61;
 }
+*/
 
 /* Carousel Slider Projektseite */
 .projectSlider {
