@@ -1027,27 +1027,8 @@ p {
   margin-bottom: 3rem;
 }
 
-.otherProjectsSlider__button {
-  width: 17.5rem;
-  height: 5rem;
-  background-color: #3EAC61;
-  color: white;
-  border-radius: 2.5rem;
-  border: none;
-  border-color: none;
-  font-size: 2rem;
-  margin-top: 4rem;
-  outline: none;
-}
 
-.otherProjectsSlider__button:hover {
-  width: 18rem;
-  height: 5rem;
-  font-size: 2.25rem;
-  background-color: white;
-  color: #3EAC61;
-  border: 2px solid #3EAC61;
-}
+
 
 .otherProjectsSlider__buttonBox {
   display: -webkit-box;
