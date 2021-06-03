@@ -1768,6 +1768,17 @@ button:focus {
   }
 }
 
+@media screen and (min-width: 600px) and (max-width: 1200px) {
+  .sectionWidth {
+    padding: 0 4rem;
+  }
+  .countryCase {
+    padding: 0 4rem;
+  }
+  
+}
+
+
 @media screen and (min-width: 600px) {
   .navigationWrapper__logo {
     width: 27rem;
