@@ -1446,7 +1446,7 @@ button:focus {
 }
 
 
-@media screen and (min-1900px) {
+@media screen and (min: 1900px) {
 .countryCase__content--right {
   -webkit-box-align: end;
       -ms-flex-align: end;
@@ -1460,7 +1460,7 @@ button:focus {
 }
 }
 
-@media screen and (max-1900px) {
+@media screen and (max: 1900px) {
 .countryCase__content--right {
   -webkit-box-align: center;
       -ms-flex-align: center;
