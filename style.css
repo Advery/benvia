@@ -1734,9 +1734,7 @@ button:focus {
 }
 
 @media screen and (min-width: 600px) and (max-width: 1800px) {
-  .mainPageWrapper {
-    padding: 0 4rem;
-  }
+
   .navigationWrapperMobil__iconSection {
     width: 20rem;
   }
