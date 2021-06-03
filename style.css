@@ -1510,12 +1510,10 @@ button:focus {
     margin-left: 25%;
   }
   .countryCase__box--right {
-    background-image: url("../fotos/romania.png");
     background-repeat: no-repeat;
     background-size: cover;
   }
   .countryCase__box--left {
-    background-image: url("../fotos/haiti.png");
     background-repeat: no-repeat;
     background-size: cover;
   }
