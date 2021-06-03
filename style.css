@@ -1471,7 +1471,7 @@ button:focus {
     width: 120rem;
   }
   .mainTitle {
-    width: 120rem;
+    width: 90rem;
   }
   .mainTitle__text p{
     font-size: 2rem;
@@ -1589,7 +1589,7 @@ button:focus {
     display: none;
   }
   .sectionWidth {
-    width: 120rem;
+    width: 90rem;
     margin: 0 auto;
   }
   .countryCase__textBoxSmall {
