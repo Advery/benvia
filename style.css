@@ -744,6 +744,39 @@ p {
   -moz-transform: translateY(-0.75rem) translateX(0) rotate(-45deg);
 }
 
+
+.new__hamburger {
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  width: 50px;
+}
+
+.new__hamburger:before,
+.new__hamburger:after,
+.new__hamburger div {
+  background: blue;
+  content: "";
+  display: block;
+  height: 6px;
+  border-radius: 3px;
+  margin: 7px 0;
+  transition: 0.5s;
+}
+.new__hamburger:hover:before {
+  transform: translateY(13px) rotate(135deg);
+}
+.new__hamburger:hover:after {
+  transform: translateY(-13px) rotate(-135deg);
+}
+.new__hamburger:hover div {
+  transform: scale(0);
+}
+
+
+
+
 .stickyDonateLink {
   z-index: 100;
   position: fixed;
