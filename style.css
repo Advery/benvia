@@ -813,8 +813,9 @@ p {
 }
 
 .homescreenImage__image {
-  overflow: hidden;
   width: 100%;
+  height: 100%;
+  obejct-fit: cover;
 }
 
 .mainPictureCountry {
@@ -826,9 +827,8 @@ p {
 }
 
 .mainPictureCountry__image {
+  overflow: hidden;
   width: 100%;
-  height: 100%;
-  object-fit: cover;
 }
 
 .mainTitle__title {
