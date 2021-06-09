@@ -744,34 +744,31 @@ p {
   -moz-transform: translateY(-0.75rem) translateX(0) rotate(-45deg);
 }
 
-.stickyDonateLink {
+stickyDonateLink {
   z-index: 100;
   position: fixed;
   top: 50rem;
   left: 0;
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-box-orient: horizontal;
-  -webkit-box-direction: normal;
-      -ms-flex-direction: row;
-          flex-direction: row;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  flex-direction: row;
+  align-items: center;
+  text-decoration: none;
+}
+
+.stickyDonateLink:hover {
+  text-decoration: none;
 }
 
 .stickyDonateLink__decoration {
   height: 6rem;
   width: 4rem;
-  background-color: #3EAC61;
+  background-color: #3eac61;
   margin-right: 2rem;
 }
-
 .stickyDonateLink__button {
   width: 20rem;
   height: 20rem;
-  background-color: #3EAC61;
+  background-color: #3eac61;
   color: white;
   border-radius: 10rem;
   border: none;
@@ -779,8 +776,12 @@ p {
   text-transform: uppercase;
   font-size: 3rem;
   outline: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
 }
-
 .stickyDonateLink__button:hover {
   width: 21rem;
   height: 21rem;
@@ -788,24 +789,17 @@ p {
   font-size: 3.1rem;
 }
 
-.stickyDonateLink__link {
-  color: #fff;
-}
-
 .stickyDonateLink__link:hover {
   color: #fff;
   text-decoration: none;
 }
-
 .stickyDonateLink__heart {
   margin-top: 2rem;
   margin-left: 2rem;
   margin-right: 2rem;
   height: 4rem;
   width: 5rem;
-}
-
-.homescreenImage {
+}.homescreenImage {
   width: 100%;
   height: 45rem;
   background-color: pink;
