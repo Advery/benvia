@@ -678,6 +678,7 @@ p {
   text-decoration: none;
   font-size: 1.6rem;
   display: block;
+  text-transform: uppercase;
 }
 
 .navigationWrapperMobil__link:first-of-type {
@@ -688,6 +689,12 @@ p {
 .navigationWrapperMobil__link--active {
   background-color: #fff;
   color: #0672B1;
+}
+
+.navigationWrapperMobil__linkFlex {
+  display: flex;
+  flex-direction: column;
+  padding: 1.4rem 1.6rem 1.4rem 3.6rem;
 }
 
 /* Mobil Navigation Icon*/
