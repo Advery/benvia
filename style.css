@@ -886,6 +886,10 @@ p {
   width: auto;
 }
 
+.mainTitle h2{
+  color: #3EAC61;
+}
+
 .mainTitle__text {
   font-size: 2rem;
   color: #333;
