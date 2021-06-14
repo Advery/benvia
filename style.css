@@ -1050,7 +1050,7 @@ p {
   margin-bottom: 2rem;
 }
 
-.otherProjectsSlider__button .main__button {
+#otherProjectsSlider__button:hover {
  color: #3eac61;
 }
 
