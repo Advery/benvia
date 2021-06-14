@@ -1749,9 +1749,7 @@ button:focus {
     -ms-flex-item-align: end;
         align-self: flex-end;
   }
-  .footer__box2 {
-    width: 42rem;
-  }
+
   .footer__subbox2 {
     display: -webkit-box;
     display: -ms-flexbox;
