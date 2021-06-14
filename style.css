@@ -890,10 +890,19 @@ p {
   color: #3EAC61;
 }
 
-.mainTitle__text {
-  font-size: 2rem;
-  color: #333;
+.mainTitle h2{
+  color: #3EAC61;
 }
+
+.mainTitle__text a {
+  color: #666;
+  border-bottom: solid 0.15rem #777777;
+}
+
+.mainTitle__text a:hover {
+  text-decoration: none;
+}
+
 
 .countryCase {
   width: 100%;
