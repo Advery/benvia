@@ -2065,4 +2065,25 @@ footer {
   border: 2px solid #3eac61;
   text-decoration: none;
 }
+
+.main__button--further {
+  width: unset;
+  height: unset;
+  color: #3eac61 !important;
+  border: none;
+  font-size: 2rem;
+  margin-top: 4rem;
+  outline: none;
+  cursor: pointer;
+  display: inline-block;
+  text-align: center;
+  -ms-flex-line-pack: center;
+      align-content: center;
+  display: -ms-grid;
+  display: grid;
+}
+
+.main__button--further:hover {
+  text-decoration: underline;
+}
 /*# sourceMappingURL=style.css.map */
