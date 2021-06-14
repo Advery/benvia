@@ -1050,6 +1050,10 @@ p {
   margin-bottom: 2rem;
 }
 
+.otherProjectsSlider__button {
+ color: #3eac61;
+}
+
 .otherProjectsSlider__cardTitle {
   font-size: 2.3rem;
   color: #333;
