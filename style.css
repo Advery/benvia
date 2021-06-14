@@ -901,6 +901,7 @@ p {
 
 .mainTitle__text a:hover {
   text-decoration: none;
+  color: #666;
 }
 
 
