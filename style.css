@@ -890,9 +890,10 @@ p {
   color: #3EAC61;
 }
 
-.mainTitle h2{
-  color: #3EAC61;
+.mainTitle__text {
+  font-size: 1.8rem;
 }
+
 
 .mainTitle__text a {
   color: #666;
