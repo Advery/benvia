@@ -680,9 +680,13 @@ p {
   color: #0672B1;
   padding: 1.4rem 1.6rem;
   text-decoration: none;
-  font-size: 1.6rem;
+  font-size: 2rem;
   display: block;
   text-transform: uppercase;
+}
+
+.navigationWrapperMobil__link:hover {
+  color: #0672B1;
 }
 
 .navigationWrapperMobil__link:active {
@@ -715,6 +719,10 @@ p {
   margin: 0;
   padding: 1.4rem 1.6rem;
   font-size: 2rem;
+  color: #0672B1;
+}
+
+.navigatonWrapperMobil__dropdownLink:hover {
   color: #0672B1;
 }
 
