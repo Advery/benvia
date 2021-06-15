@@ -686,7 +686,7 @@ p {
   text-transform: uppercase;
 }
 
-.navigationWrapperMobil__link:first-of-type {
+.navigationWrapperMobil__listPoint:first-of-type {
   margin-top: 2rem;
   border-top: 1px solid #0672B1;
 }
