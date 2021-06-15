@@ -662,6 +662,10 @@ p {
   display: block;
 }
 
+.navigationWrapperMobil__phoneLink:hover {
+  color: white;
+}
+
 .navigationWrapperMobil__linkIcon:hover {
   background-color: #fff;
   color: #0672B1;
