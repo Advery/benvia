@@ -685,9 +685,24 @@ p {
   text-transform: uppercase;
 }
 
+.navigationWrapperMobil__list {
+  margin-bottom: 0;
+   margin-top: 2rem;
+}
+
 .navigationWrapperMobil__listPoint:first-of-type {
   margin-top: 2rem;
   border-top: 1px solid #0672B1;
+}
+
+
+.navigationWrapperMobil__listPoint:first-of-type .navigationWrapperrMoibl__link {
+  margin: 1.4rem 1.6rem;
+ padding: 0;
+}
+
+.uk-accordion>:nth-child(n+2) {
+    margin-top: 0;
 }
 
 .navigationWrapperMobil__link--active {
