@@ -1965,7 +1965,8 @@ button:focus {
   }
   .countryCase__smartphoneImageBox {
     width: 100%;
-    height: 23rem;
+    height: 100%;
+    object-fit: cover;
     background-color: pink;
   }
   .newsBox {
