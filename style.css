@@ -684,6 +684,9 @@ p {
   display: block;
   text-transform: uppercase;
 }
+.navigationWrapperMobil__link:active {
+  text-decoration: underline;
+}
 
 .navigationWrapperMobil__link:hover {
   color: #0672B1;
