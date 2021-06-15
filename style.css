@@ -596,6 +596,11 @@ p {
 }
 
 /* Mobil Navigation*/
+
+.uk-accordion-title::before {
+  display: none;
+}
+
 .navigationWrapperMobil {
   background-color: white;
   display: -webkit-box;
