@@ -685,6 +685,10 @@ p {
   text-transform: uppercase;
 }
 
+.navigationWrapperMobil__link:active {
+  text-decoration: underline;
+}
+
 .navigationWrapperMobil__list {
   margin-bottom: 0;
    margin-top: 2rem;
@@ -710,7 +714,14 @@ p {
 .navigatonWrapperMobil__dropdownLink {
   margin: 0;
   padding: 1.4rem 1.6rem;
+  font-size: 2rem;
+  color: #0672B1;
 }
+
+.navigatonWrapperMobil__dropdownLink:active {
+  text-decoration: underline;
+}
+
 
 
 .uk-accordion>:nth-child(n+2) {
