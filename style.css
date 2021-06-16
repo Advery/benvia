@@ -686,19 +686,19 @@ p {
   font-size: 2rem;
   display: block;
   text-transform: uppercase;
-   padding-bottom: 0.7rem;
+  padding-bottom: 0.7rem;
 }
 
 .uk-nav-primary>li>a {
     color: #0672B1;
-    padding-bottom: 1.4rem;
-  width: fit-content;
+    padding-bottom: 1rem;
+    width: fit-content;
 }
 
 .uk-nav-primary>li>a:hover {
     color: #0672B1;
     border-bottom: 2px solid #0672B1;
-    padding-bottom: calc(1.4rem-2px);
+    padding-bottom: 0.8rem);
 }
 
 .navigationWrapperMobil__link:active {
