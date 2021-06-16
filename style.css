@@ -711,9 +711,9 @@ p {
 
 .uk-nav-primary .uk-nav-sub a {
     color: #0672B1;
-    padding-bottom: 1rem;
+    padding: 1.4rem;
     width: fit-content;
-    text-transform: capitalize;
+    text-transform: none;
 }
 
 .uk-nav-primary .uk-nav-sub a:first-of-type>a {
