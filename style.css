@@ -708,6 +708,27 @@ p {
     padding-bottom: 0.8rem;
 }
 
+
+.uk-nav-primary .uk-nav-sub a {
+    color: #0672B1;
+    padding-bottom: 1rem;
+    width: fit-content;
+    text-transform: capitalize;
+}
+
+.uk-nav-primary .uk-nav-sub a:first-of-type>a {
+    color: #0672B1;
+    padding-top: 2rem;
+    width: fit-content;
+}
+
+.uk-nav-primary .uk-nav-sub a:hover {
+    color: #0672B1;
+    border-bottom: 2px solid #0672B1;
+    padding-bottom: 0.8rem;
+}
+ 
+
 .navigationWrapperMobil__link:active {
   text-decoration: underline;
 }
