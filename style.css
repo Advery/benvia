@@ -688,6 +688,15 @@ p {
   text-transform: uppercase;
    padding-bottom: 0.7rem;
 }
+
+.uk-nav-primary>li>a {
+    color: #0672B1;
+}
+
+.uk-nav-primary>li>a:hover {
+    color: #0672B1;
+}
+
 .navigationWrapperMobil__link:active {
   text-decoration: underline;
 }
