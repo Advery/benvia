@@ -692,6 +692,7 @@ p {
 .uk-nav-primary>li>a {
     color: #0672B1;
     padding-bottom: 1.4rem;
+  width: fit-content;
 }
 
 .uk-nav-primary>li>a:hover {
