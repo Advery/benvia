@@ -695,12 +695,15 @@ p {
     width: fit-content;
 }
 
+.uk-nav-primary>li>a:active {
+    text-transform: none;
+}
+
 .uk-nav-primary>li:first-of-type>a {
     color: #0672B1;
     padding-top: 2rem;
     width: fit-content;
 }
-
 
 .uk-nav-primary>li>a:hover {
     color: #0672B1;
@@ -708,13 +711,16 @@ p {
     padding-bottom: 0.8rem;
 }
 
-
 .uk-nav-primary .uk-nav-sub a {
     color: #0672B1;
     margin: 1.4rem 0 0.7rem 1.4rem;
     padding-bottom: 0.7rem;
     width: fit-content;
     text-transform: none;
+}
+
+.uk-nav-primary .uk-nav-sub a:active {
+    text-decoration: none;
 }
 
 .uk-nav-primary .uk-nav-sub a:first-of-type>a {
@@ -728,7 +734,6 @@ p {
     border-bottom: 2px solid #0672B1;
     padding-bottom: 0.5rem;
 }
- 
 
 .navigationWrapperMobil__link:active {
   text-decoration: underline;
