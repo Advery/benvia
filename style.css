@@ -686,15 +686,15 @@ p {
   font-size: 2rem;
   display: block;
   text-transform: uppercase;
+   padding-bottom: 0.7rem;
 }
 .navigationWrapperMobil__link:active {
   text-decoration: underline;
 }
 
 .navigationWrapperMobil__link:hover {
-  padding-bottom: 0.7rem;
+ 
   border-buttom: 2px solid #0672B1;
-  width: auto;
   color: #0672B1;
 }
 
@@ -713,11 +713,6 @@ p {
 .navigationWrapperMobil__listPoint:first-of-type {
   margin-top: 2rem;
   border-top: 1px solid #0672B1;
-}
-
-.navigationWrapperMobil__listPoint:first-of-type .navigationWrapperrMoibl__link {
-  margin: 1.4rem 1.6rem;
- padding: 0;
 }
 
 .navigatonWrapperMobil__dropdownBox {
@@ -741,8 +736,6 @@ p {
 .navigatonWrapperMobil__dropdownLink:active {
   text-decoration: underline;
 }
-
-
 
 .uk-accordion>:nth-child(n+2) {
     margin-top: 0;
@@ -813,7 +806,6 @@ p {
   -moz-transform: translateY(-0.75rem) translateX(0) rotate(-45deg);
 }
 
-
 .new__hamburger {
   top: 50%;
   left: 50%;
@@ -842,9 +834,6 @@ p {
 .new__hamburger:hover div {
   transform: scale(0);
 }
-
-
-
 
 .stickyDonateLink {
   z-index: 100;
