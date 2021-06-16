@@ -682,7 +682,6 @@ p {
 
 .navigationWrapperMobil__link {
   color: #0672B1;
-  padding: 1.4rem 1.6rem;
   text-decoration: none;
   font-size: 2rem;
   display: block;
@@ -693,6 +692,9 @@ p {
 }
 
 .navigationWrapperMobil__link:hover {
+  padding-bottom: 0.7rem;
+  border-buttom: 2px solid #0672B1;
+  width: auto;
   color: #0672B1;
 }
 
@@ -705,7 +707,8 @@ p {
    margin-top: 2rem;
 }
 .navigationWrapperMobil__listPoint {
-  margin-left: 2rem;
+  margin: 1.4rem 1.6rem 0.7rem 2rem;
+  
 } 
 .navigationWrapperMobil__listPoint:first-of-type {
   margin-top: 2rem;
