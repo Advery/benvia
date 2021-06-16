@@ -704,7 +704,9 @@ p {
   margin-bottom: 0;
    margin-top: 2rem;
 }
-
+.navigationWrapperMobil__listPoint {
+  margin-left: 2rem;
+} 
 .navigationWrapperMobil__listPoint:first-of-type {
   margin-top: 2rem;
   border-top: 1px solid #0672B1;
