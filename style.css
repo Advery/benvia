@@ -1370,9 +1370,9 @@ p {
   color: #333;
 }
 
-.singleProjects {
-  margin-bottom: 35rem;
-  width: 25%;
+.projectDescription__slider {
+  
+  width: 50%;
 }
 
 .newsBox {
