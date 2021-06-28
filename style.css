@@ -35,6 +35,9 @@ h3 {
 p {
   font-family: "Lato", sans-serif;
   word-break: break-all;
+    -webkit-hyphens: auto;
+      -ms-hyphens: auto;
+          hyphens: auto;
 }
 
 /* Desktop Navigation*/
