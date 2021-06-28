@@ -1391,7 +1391,7 @@ p {
 
 .projectDescription__slider {
   
-  width: 50%;
+  width: 80%;
 }
 
 .newsBox {
@@ -2001,7 +2001,7 @@ button:focus {
   }
   
     .projectDescription__slider {
-    width: 80%;
+    width: 50%;
   }
 }
 
