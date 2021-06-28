@@ -22,20 +22,28 @@
 
 h1 {
   font-family: "Lato", sans-serif;
+  -webkit-hyphens: auto;
+      -ms-hyphens: auto;
+          hyphens: auto;
 }
 
 h2 {
   font-family: "Lato", sans-serif;
+  -webkit-hyphens: auto;
+      -ms-hyphens: auto;
+          hyphens: auto;
 }
 
 h3 {
   font-family: "Lato", sans-serif;
+  -webkit-hyphens: auto;
+      -ms-hyphens: auto;
+          hyphens: auto;
 }
 
 p {
   font-family: "Lato", sans-serif;
-  word-break: break-all;
-    -webkit-hyphens: auto;
+  -webkit-hyphens: auto;
       -ms-hyphens: auto;
           hyphens: auto;
 }
