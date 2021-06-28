@@ -1999,6 +1999,10 @@ button:focus {
             flex-direction: row;
     font-size: 1.6rem;
   }
+  
+    .projectDescription__slider {
+    width: 80%;
+  }
 }
 
 @media screen and (max-width: 600px) {
