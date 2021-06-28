@@ -1398,6 +1398,10 @@ p {
   text-transform: uppercase;
 }
 
+  .newsBox__card {
+    max-width: 580px;
+  }
+
 .newsBox__cardBox {
   display: -webkit-box;
   display: -ms-flexbox;
