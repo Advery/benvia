@@ -2180,9 +2180,8 @@ footer {
 }
 
 .footer__metaLink:hover {
-  font-weight: bold;
   text-decoration: none;
-  color: white;
+  color: #3eac61;
 }
 
 .footer__metaListPoint {
