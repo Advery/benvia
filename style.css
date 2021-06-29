@@ -2185,6 +2185,10 @@ footer {
   color: white;
 }
 
+.footer__metaListPoint {
+  margin-right: 1rem;
+}
+
 
 .main__button {
   width: 18rem;
