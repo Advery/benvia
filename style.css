@@ -1435,6 +1435,10 @@ p {
           justify-content: center;
 }
 
+.newsBox__cardWrapper {
+  justify-content: center;
+}
+
 #newsBox__cardBox {
   padding: 0;
 }
