@@ -1737,6 +1737,13 @@
       .newsBox__wrapper {
         margin: 0 29rem;
       }
+      .footer__link {
+        color: white;
+      }
+      .footer__link:hover {
+        color: white;
+        text-decoration: none;
+      }  
     }
     
     @media screen and (min-width: 1200px) {
