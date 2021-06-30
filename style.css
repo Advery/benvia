@@ -1851,6 +1851,16 @@ button:focus {
             justify-content: space-between;
     padding: 0  5.9rem 2rem 5.9rem;
   }
+  
+.footer__numb {
+  color: white;
+}
+
+.footer__numb:hover {
+  color: white;
+  text-decoration: none;
+}
+  
   .footer__box1, .footer__box2 {
     -ms-flex-item-align: end;
         align-self: flex-end;
