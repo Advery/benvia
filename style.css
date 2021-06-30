@@ -1737,13 +1737,7 @@
       .newsBox__wrapper {
         margin: 0 29rem;
       }
-      .footer__link {
-        color: white;
-      }
-      .footer__link:hover {
-        color: white;
-        text-decoration: none;
-      }  
+ 
     }
     
     @media screen and (min-width: 1200px) {
@@ -1822,13 +1816,7 @@
                 justify-content: space-between;
         padding: 0  5.9rem 2rem 5.9rem;
       }
-      .footer__link {
-        color: white;
-      }
-      .footer__link:hover {
-        color: white;
-        text-decoration: none;
-      }
+
       
     
       
@@ -1908,13 +1896,7 @@
         height: 20rem;
       }
         
-      .footer__link {
-        color: white;
-      }
-      .footer__link:hover {
-        color: white;
-        text-decoration: none;
-      }    
+   
     }
     
     @media screen and (min-width: 600px) and (max-width: 1800px) {
@@ -2164,6 +2146,8 @@
     .footer__metaListPoint {
       margin-right: 1rem;
     }
+
+/* footer ende */
     
     
     .main__button {
