@@ -1,3 +1,11 @@
+#testslider2 {
+color: hotpink;
+}
+#testslider2:hover {
+color: red;
+}
+
+
 * {
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
