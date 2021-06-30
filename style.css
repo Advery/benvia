@@ -1907,6 +1907,14 @@
       .footer__box1 {
         height: 20rem;
       }
+        
+      .footer__link {
+        color: white;
+      }
+      .footer__link:hover {
+        color: white;
+        text-decoration: none;
+      }    
     }
     
     @media screen and (min-width: 600px) and (max-width: 1800px) {
@@ -2097,6 +2105,14 @@
       color: white;
       margin-top: 10rem;
     }
+
+     .footer__link {
+        color: white;
+    }
+    .footer__link:hover {
+        color: white;
+        text-decoration: none;
+    }  
     
     .footer__uppercase {
       text-transform: uppercase;
