@@ -816,7 +816,7 @@
       top: 100%;
     }
     
-    #hamburger-icon:hover .line, #hamburger-icon:focus .line .Line1 {
+    #hamburger-icon:focus .line .Line1 {
       background: #3EAC61;
     }
     
