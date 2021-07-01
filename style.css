@@ -1748,6 +1748,7 @@
       .sectionWidth {
         max-width: 130rem;
         margin: 0 auto;
+        margin-top: 10rem;
       }
       .countryCase__textBoxSmall {
         -webkit-column-count: 2;
