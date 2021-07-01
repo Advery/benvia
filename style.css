@@ -1175,7 +1175,7 @@
     }
     
     .otherProjectsSlider__cardTitle {
-      font-size: 2.3rem;
+      font-size: 2rem;
       color: #333;
       text-transform: uppercase;
       text-align: center;
@@ -1203,7 +1203,7 @@
     
     .otherProjectsSlider__text {
       margin: 0;
-      font-size: 2rem;
+      font-size: 1.8rem;
       color: #333;
       margin-bottom: 4rem;
     }
@@ -1435,13 +1435,13 @@
     }
     
     .newsBox__cardTitle {
-      font-size: 2.3rem;
+      font-size: 2rem;
       text-transform: uppercase;
       color: #333;
     }
     
     .newsBox__cardText {
-      font-size: 2rem;
+      font-size: 1.8rem;
       color: #333;
     }
     
