@@ -440,7 +440,7 @@
       -webkit-transition: all 0.5s ease;
       transition: all 0.5s ease;
     }
-    
+  /*  
     .navigationWrapper__dropbtn {
       background-color: white;
       color: #0672B1;
@@ -451,7 +451,7 @@
       outline: none;
       margin-left: 1.5rem;
     }
-    
+  */  
     .navigationWrapper__dropdown {
       position: relative;
       display: inline-block;
@@ -511,7 +511,7 @@
       color: #0672B1;
       font-size: 2rem;
     }
-    
+    /*
     .navigationWrapper__dropbtn {
       background-color: white;
       font-family: "Lato", sans-serif;
@@ -526,6 +526,7 @@
       position: relative;
       display: inline-block;
     }
+*/
     
     .navigationWrapper__dropbtn:focus {
       border: none;
