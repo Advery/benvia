@@ -1734,6 +1734,7 @@
       }
       .wrapperProjectDescripion {
         margin-bottom: 10rem;
+        max-width: 70%;
       }
       .newsBox__wrapper {
         margin: 0 29rem;
