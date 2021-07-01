@@ -614,7 +614,7 @@
           -ms-flex-direction: row;
               flex-direction: row;
       padding-left: 2rem;
-      padding-top: 2.5rem;
+      padding-top: 2.2rem;
 
     }
     
@@ -1969,7 +1969,7 @@
         margin-top: 6rem;
       }
       .navigationWrapperMobil__iconSection {
-        width: 15rem;
+        width: 20rem;
       }
       .mainPageWrapper {
         width: 100vw;
