@@ -720,18 +720,14 @@
         padding-bottom: 0.5rem;
     }
     
-    .navigationWrapperMobil__link:active {
-      text-decoration: underline;
-    }
+
     
     .navigationWrapperMobil__link:hover {
       border-buttom: 2px solid #0672B1;
       color: #0672B1;
     }
     
-    .navigationWrapperMobil__link:active {
-      text-decoration: underline;
-    }
+
     
     .navigationWrapperMobil__list {
       margin-bottom: 0;
