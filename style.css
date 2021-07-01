@@ -2158,7 +2158,7 @@
     
     
     .main__button {
-      width: 18rem;
+      width: 17rem;
       height: 5rem;
       background-color: #3eac61;
       color: white;
@@ -2178,7 +2178,7 @@
     }
     
     .main__button:hover {
-      width: 18rem;
+      width: 17rem;
       height: 5rem;
       font-size: 2rem;
       background-color: white;
