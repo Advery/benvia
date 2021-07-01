@@ -682,9 +682,7 @@
         width: fit-content;
     }
     
-    .uk-nav-primary>li>a:active {
-        text-transform: none;
-    }
+
     
     .uk-nav-primary>li:first-of-type>a {
         color: #0672B1;
