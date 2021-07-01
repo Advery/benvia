@@ -1918,6 +1918,7 @@
     
     @media screen and (min-width: 600px) and (max-width: 1200px) {
       .sectionWidth {
+        margin-top: 10rem;
         padding: 0 4rem;
         max-width: 130rem;
       }
@@ -1974,6 +1975,7 @@
         padding-right: 0;
       }
       .sectionWidth {
+        margin-top: 10rem;  
         padding: 0 2rem;
         max-width: 130rem;
       }
