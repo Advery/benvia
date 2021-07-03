@@ -2086,6 +2086,10 @@
             -ms-flex-direction: column;
                 flex-direction: column;
       }
+        
+      .main__button {
+          font-size: 1.6rem;
+        }  
     }
     
     /* footer */
@@ -2180,7 +2184,7 @@
       color: white;
       border-radius: 3rem;
       border: none;
-      font-size: 1.6rem;
+      font-size: 2rem;
       margin-top: 4rem;
       cursor: pointer;
       display: inline-block;
