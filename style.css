@@ -649,6 +649,8 @@
       text-decoration: none;
       font-size: 1.6rem;
       display: block;
+      line-height: 3.5rem;
+      height: 3.5rem;
     }
     
     .navigationWrapperMobil__phoneLink:hover {
