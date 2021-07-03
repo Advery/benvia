@@ -1973,6 +1973,11 @@
         width: 20rem;
       }
         
+      .projectDescription__title {
+      font-size: 2.3rem;
+      color: #000000;
+    }  
+        
       .otherProjectsSlider__title {
       font-size: 2.3rem;
       color: #000000;
