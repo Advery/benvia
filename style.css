@@ -2198,11 +2198,12 @@
       color: #3eac61;
       border: 2px solid #3eac61;
       text-decoration: none;
+      width: fit-content;
+      width: -moz-fit-content;
+      padding: 1.5% 8%;
     }
     
     .main__button--further {
-      width: unset;
-      height: unset;
       color: #3eac61 !important;
       border: none;
       font-size: 2rem;
@@ -2215,6 +2216,9 @@
           align-content: center;
       display: -ms-grid;
       display: grid;
+      width: fit-content;
+      width: -moz-fit-content;
+      padding: 1.5% 8%;  
     }
     
     .main__button--further:hover {
