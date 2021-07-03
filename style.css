@@ -1960,6 +1960,9 @@
         .projectDescription__slider {
         width: 60%;
       }
+      .main__button {
+          font-size: 1.6rem;
+        }   
     }
     
     @media screen and (max-width: 600px) {
@@ -2087,9 +2090,7 @@
                 flex-direction: column;
       }
         
-      .main__button {
-          font-size: 1.6rem;
-        }  
+       
     }
     
     /* footer */
