@@ -2174,9 +2174,8 @@
     .main__button {
       background-color: #3eac61;
       color: white;
-      border-radius: 2.5rem;
+      border-radius: 3rem;
       border: none;
-      border-color: none;
       font-size: 2rem;
       margin-top: 4rem;
       outline: none;
