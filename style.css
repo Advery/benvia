@@ -1811,6 +1811,10 @@
       .countryCase {
         padding: 0 4rem;
       }
+        
+        .successStoryBox__button .main__button {
+         margin-top: 0;   
+      }
       
     }
     
