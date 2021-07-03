@@ -1464,123 +1464,6 @@
       width: 100%;
     }
     
-    /* Carousel Slider Projektseite */
-    .projectSlider {
-      display: -webkit-box;
-      display: -ms-flexbox;
-      display: flex;
-    }
-    
-    .container {
-      margin-bottom: 100rem;
-      width: 120rem;
-    }
-    
-    button:focus {
-      outline: 0;
-    }
-    
-    .owl-carousel-stacked {
-      margin-top: 20px;
-    }
-    
-    .owl-carousel-stacked .owl-item.center {
-      -webkit-transform: scale(1) !important;
-              transform: scale(1) !important;
-      /* -webkit-box-shadow: 0px 0px 55px -12px rgba(0, 0, 0, 0.74);
-        -moz-box-shadow: 0px 0px 55px -12px rgba(0, 0, 0, 0.74);
-        box-shadow: 0px 0px 55px -12px rgba(0, 0, 0, 0.74); */
-    }
-    
-    .owl-carousel-stacked .owl-item {
-      -webkit-transition: all 0.5s;
-      transition: all 0.5s;
-      -webkit-transform: scale(0.7) !important;
-              transform: scale(0.7) !important;
-    }
-    
-    .owl-carousel-stacked .left-of-center {
-      -webkit-transform: scale(0.7) translateX(10%) !important;
-              transform: scale(0.7) translateX(10%) !important;
-      width: 30rem;
-    }
-    
-    .owl-carousel-stacked .right-of-center {
-      -webkit-transform: scale(0.7) translateX(-10%) !important;
-              transform: scale(0.7) translateX(-10%) !important;
-      width: 30rem;
-    }
-    
-    .owl-carousel-stacked .center {
-      z-index: 2;
-      width: 50rem;
-    }
-    
-    .owl-carousel-stacked .owl-carousel {
-      position: relative;
-    }
-    
-    .owl-carousel-stacked .owl-prev,
-    .owl-carousel-stacked .owl-next {
-      position: absolute;
-      top: 50%;
-      margin-top: -10px;
-      cursor: pointer;
-      color: #ddd !important;
-    }
-    
-    .owl-carousel-stacked .owl-prev {
-      left: 0;
-    }
-    
-    .owl-carousel-stacked .owl-next {
-      right: 0;
-    }
-    
-    .owl-carousel-stacked .owl-dots {
-      text-align: center;
-    }
-    
-    .owl-carousel-stacked .owl-dot {
-      cursor: pointer;
-      background-color: #ddd !important;
-      width: 20px;
-      height: 20px;
-      display: inline-block;
-      margin: 10px 2px;
-    }
-    
-    .owl-carousel-stacked .owl-dot.active {
-      background-color: #d2181f !important;
-    }
-    
-    .owl-carousel-stacked .owl-stage-outer {
-      padding: 25px 0;
-    }
-    
-    .owl-dots {
-      display: none;
-    }
-    
-    .owl-prev:focus {
-      border: none;
-      outline: none;
-    }
-    
-    .owl-next:focus {
-      border: none;
-      outline: none;
-    }
-    
-    .owl-prev:hover span svg {
-      width: 4.5rem;
-      height: 4.5rem;
-    }
-    
-    .owl-next:hover span svg {
-      width: 4.5rem;
-      height: 4.5rem;
-    }
     
     
     @media screen and (min-width: 1900px) {
@@ -1960,12 +1843,14 @@
         .projectDescription__slider {
         width: 60%;
       }
-      .main__button {
-          font-size: 1.6rem;
-        }   
+
     }
     
     @media screen and (max-width: 600px) {
+        
+      .main__button {
+          font-size: 1.6rem;
+        }     
       .navigationWrapperMobil {
         padding-top: 2rem;
       }
