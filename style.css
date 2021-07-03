@@ -2193,8 +2193,6 @@
     }
     
     .main__button:hover {
-      width: 17rem;
-      height: 5rem;
       font-size: 2rem;
       background-color: white;
       color: #3eac61;
