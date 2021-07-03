@@ -1971,6 +1971,11 @@
       .navigationWrapperMobil__iconSection {
         width: 20rem;
       }
+        
+      .otherProjectsSlider__title {
+      font-size: 2.3rem;
+      color: #000000;
+      }  
       .mainPageWrapper {
         width: 100vw;
         padding-left: 0;
