@@ -2188,6 +2188,7 @@
       width: fit-content;
       width: -moz-fit-content;
       padding: 1.5% 4%;
+      border: 2px solid #3eac61;
     }
     
     .main__button:hover {
@@ -2215,7 +2216,6 @@
       display: grid;
       width: fit-content;
       width: -moz-fit-content;
-      padding: 1.5% 4%;  
     }
     
     .main__button--further:hover {
