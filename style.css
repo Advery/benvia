@@ -2103,9 +2103,14 @@
       margin-top: 10rem;
     }
 
-     .footer__link {
+    .footer__link {
         color: white;
     }
+
+    .footer__adress {
+        color: white;
+    }
+
     .footer__link:hover {
         color: white;
         text-decoration: none;
