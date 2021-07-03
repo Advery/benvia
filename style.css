@@ -1812,7 +1812,7 @@
         padding: 0 4rem;
       }
         
-        .successStoryBox__button .main__button {
+      .successStoryBox__button .main__button {
          margin-top: 0;   
       }
       
@@ -1820,6 +1820,11 @@
     
     
     @media screen and (min-width: 600px) {
+      
+      .successStoryBox__button .main__button {
+         margin-top: 0;   
+      }  
+        
       .navigationWrapper__logo {
         width: 27rem;
         margin-top: 2.2rem;
