@@ -2172,8 +2172,6 @@
     
     
     .main__button {
-      width: 17rem;
-      height: 5rem;
       background-color: #3eac61;
       color: white;
       border-radius: 2.5rem;
@@ -2189,6 +2187,9 @@
           align-content: center;
       display: -ms-grid;
       display: grid;
+      width: fit-content;
+      width: -moz-fit-content;
+      padding: 1.5% 8%;
     }
     
     .main__button:hover {
