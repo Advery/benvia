@@ -1529,9 +1529,7 @@
       .mainTitle__text p{
         font-size: 2rem;
       }
-      .countryCase__image {
-        display: none;
-      }
+
       .navigationWrapper__listPoint--right {
         -webkit-box-pack: center;
             -ms-flex-pack: center;
