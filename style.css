@@ -2074,7 +2074,7 @@
       text-align: center;
       width: fit-content;
       width: -moz-fit-content;
-      padding: 5px 8px;
+      padding: 5px 20px;
       border: 2px solid #3eac61;
     }
     
@@ -2086,7 +2086,7 @@
       text-decoration: none;
       width: fit-content;
       width: -moz-fit-content;
-      padding: 5px 8px;
+      padding: 5px 20px;
     }
     
     .main__button--further {
