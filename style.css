@@ -1465,6 +1465,15 @@
       width: 100%;
     }
     
+    @media screen and (min-width: 1500px) {
+        .countryCase__box {
+            position: relative;
+           
+        } 
+        .countryCase__image {
+            position: absolute;
+        }    
+    }
     
     
     @media screen and (min-width: 1900px) {
