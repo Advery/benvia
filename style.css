@@ -2180,7 +2180,7 @@
       color: white;
       border-radius: 3rem;
       border: none;
-      font-size: 2rem;
+      font-size: 1.6rem;
       margin-top: 4rem;
       cursor: pointer;
       display: inline-block;
@@ -2192,7 +2192,7 @@
     }
     
     .main__button:hover {
-      font-size: 2rem;
+
       background-color: white;
       color: #3eac61;
       border: 2px solid #3eac61;
