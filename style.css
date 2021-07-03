@@ -1074,7 +1074,7 @@
     
     .countryCase__text {
       font-size: 2rem;
-      color: #333;
+      color: #000000;
       margin: 0;
     }
     
@@ -1095,7 +1095,7 @@
     
     .currentCountrySlider__cardTitle {
       font-size: 2.3rem;
-      color: #333;
+      color: #000000;
       text-transform: uppercase;
       text-align: center;
       margin-bottom: 3rem;
@@ -1128,7 +1128,7 @@
     .currentCountrySlider__text {
       margin: 0;
       font-size: 2rem;
-      color: #333;
+      color: #000000;
     }
     
     .successStoryBox__picture {
@@ -1155,7 +1155,7 @@
     
     .successStoryBox__text {
       font-size: 2rem;
-      color: #333;
+      color: #000000;
       margin: 0;
     }
     
@@ -1176,7 +1176,7 @@
     
     .otherProjectsSlider__cardTitle {
       font-size: 2rem;
-      color: #333;
+      color: #000000;
       text-transform: uppercase;
       text-align: center;
       margin-bottom: 3rem;
@@ -1204,7 +1204,7 @@
     .otherProjectsSlider__text {
       margin: 0;
       font-size: 1.8rem;
-      color: #333;
+      color: #000000;
       margin-bottom: 4rem;
     }
     
@@ -1233,7 +1233,7 @@
     
     .countryDescription__text {
       font-size: 2rem;
-      color: #333;
+      color: #000000;
     }
     
     .countryListPageWrapper {
@@ -1285,14 +1285,14 @@
     
     .countryProjects__title {
       font-size: 2.3rem;
-      color: #333;
+      color: #000000;
       text-transform: uppercase;
       text-align: center;
     }
     
     .countryProjects__text {
       font-size: 2rem;
-      color: #333;
+      color: #000000;
     }
     
     .countryProjects__button {
@@ -1362,7 +1362,7 @@
     
     .projectDescription__text {
       font-size: 2rem;
-      color: #333;
+      color: #000000;
     }
     
     .projectDescription__slider {
@@ -1431,18 +1431,18 @@
     
     .newsBox__date {
       font-size: 1.8rem;
-      color: #333;
+      color: #000000;
     }
     
     .newsBox__cardTitle {
       font-size: 2rem;
       text-transform: uppercase;
-      color: #333;
+      color: #000000;
     }
     
     .newsBox__cardText {
       font-size: 1.8rem;
-      color: #333;
+      color: #000000;
     }
     
     .newsBox__cardButtonBox {
