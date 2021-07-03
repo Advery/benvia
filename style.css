@@ -1847,10 +1847,7 @@
     }
     
     @media screen and (max-width: 600px) {
-        
-      .main__button {
-          font-size: 1.6rem;
-        }     
+    
       .navigationWrapperMobil {
         padding-top: 2rem;
       }
@@ -2068,7 +2065,7 @@
     .main__button {
       background-color: #3eac61;
       color: white;
-      border-radius: 3rem;
+      border-radius: 4rem;
       border: none;
       font-size: 2rem;
       margin-top: 4rem;
