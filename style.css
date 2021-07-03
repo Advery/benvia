@@ -1474,7 +1474,7 @@
             position: absolute;
             width: 48%;
             right: 55%;
-            top: 10%;
+            top: 20%;
         }    
     }
     
@@ -1662,8 +1662,7 @@
       .countryCase__content {
         width: 90rem;
         margin-bottom: 5rem;
-        margin-right: 10%;
-        margin-left: 10%;
+
       }
       .countryCase__widthContainer {
         width: 90rem;
