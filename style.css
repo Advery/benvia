@@ -1472,6 +1472,9 @@
         } 
         .countryCase__image {
             position: absolute;
+            width: 48%;
+            right: 55%;
+            top: 10%;
         }    
     }
     
