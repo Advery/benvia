@@ -962,7 +962,6 @@
     .mainPictureCountry {
       width: 100%;
       height: 45rem;
-      background-color: pink;
       margin-bottom: 7.5rem;
       margin-bottom: 6rem;
     }
@@ -2010,7 +2009,6 @@
         width: 100%;
         height: 100%;
         object-fit: cover;
-        background-color: pink;
       }
       .newsBox {
         padding: 0 2rem;
