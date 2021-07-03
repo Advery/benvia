@@ -1845,6 +1845,7 @@
       }
       .footer__contact, .footer__adress {
         text-align: left;
+        color: white;
       }
       .footer__list {
         width: auto;
@@ -2116,7 +2117,7 @@
     
     .footer__title {
       margin-bottom: 0;
-      color: #000000;
+      color: white;
     }
     
     .footer__box1 {
