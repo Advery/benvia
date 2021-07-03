@@ -2169,7 +2169,8 @@
     }
 
 /* footer ende */
-    
+
+/* main__button */
     
     .main__button {
       background-color: #3eac61;
@@ -2178,7 +2179,6 @@
       border: none;
       font-size: 2rem;
       margin-top: 4rem;
-      outline: none;
       cursor: pointer;
       display: inline-block;
       text-align: center;
@@ -2188,7 +2188,7 @@
       display: grid;
       width: fit-content;
       width: -moz-fit-content;
-      padding: 1.5% 8%;
+      padding: 1.5% 4%;
     }
     
     .main__button:hover {
@@ -2199,7 +2199,7 @@
       text-decoration: none;
       width: fit-content;
       width: -moz-fit-content;
-      padding: 1.5% 8%;
+      padding: 1.5% 4%;
     }
     
     .main__button--further {
@@ -2207,7 +2207,6 @@
       border: none;
       font-size: 2rem;
       margin-top: 4rem;
-      outline: none;
       cursor: pointer;
       display: inline-block;
       text-align: center;
@@ -2217,11 +2216,13 @@
       display: grid;
       width: fit-content;
       width: -moz-fit-content;
-      padding: 1.5% 8%;  
+      padding: 1.5% 4%;  
     }
     
     .main__button--further:hover {
       text-decoration: underline;
     }
-    /*# sourceMappingURL=style.css.map */
+
+    /* main__button ende */
+    
     
