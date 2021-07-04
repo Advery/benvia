@@ -1569,6 +1569,11 @@
         background-size: cover;
         align-items: flex-start;
       }
+        
+      .countryCase__box--left .countryCase__image {
+        right: 18%;
+        top: -13%;  
+      }
       
         
       .countryCase {
