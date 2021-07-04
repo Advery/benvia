@@ -1508,7 +1508,7 @@
     }
     
     
-    /* Carousel Slider Projektseite Ende */
+
     @media screen and (min-width: 1800px) {
       /* .projectDescription {
          margin-left: 4rem;
@@ -1568,6 +1568,11 @@
         background-repeat: no-repeat;
         background-size: cover;
       }
+      
+      .countryCase__box .countryCase__box--left {
+        align-items: flex-start;   
+      }  
+        
       .countryCase {
         height: 80rem;
       }
