@@ -1578,6 +1578,7 @@
         
       .countryCase {
         height: 80rem;
+        margin-top: 10rem;
       }
       .countryCase:first-of-type {
         margin-top: 20rem;
