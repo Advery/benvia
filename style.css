@@ -1567,11 +1567,9 @@
       .countryCase__box--left {
         background-repeat: no-repeat;
         background-size: cover;
+        align-items: flex-start;
       }
       
-      .countryCase__box .countryCase__box--left {
-        align-items: flex-start;   
-      }  
         
       .countryCase {
         height: 80rem;
