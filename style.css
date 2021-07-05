@@ -1766,6 +1766,11 @@
         height: 4rem;
         
       }  
+        
+      .stickyDonateLink__button {
+        width: 15rem;
+        height: 15rem;
+       }
 
       .countryCase__textBoxSmall {
         -webkit-column-count: 1;
