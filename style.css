@@ -1760,9 +1760,7 @@
     }
     
     @media screen and (max-width: 1200px) {
-      .stickyDonateLink {
-        display: none;
-      }
+
       .countryCase__textBoxSmall {
         -webkit-column-count: 1;
                 column-count: 1;
