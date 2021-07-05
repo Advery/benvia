@@ -1762,14 +1762,24 @@
     @media screen and (max-width: 1200px) {
         
         
+      .stickyDonateLink__button:hover {
+        width: 16rem;
+        height: 16rem;
+        border-radius: 10.5rem;
+        font-size: 2.1rem;
+      }  
+        
       .stickyDonateLink__decoration {
         height: 4rem;
         
       }  
         
+      
+        
       .stickyDonateLink__button {
         width: 15rem;
         height: 15rem;
+        font-size: 2rem;  
        }
 
       .countryCase__textBoxSmall {
