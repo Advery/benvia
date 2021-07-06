@@ -1478,6 +1478,12 @@
             right: 51%;
             top: -3%;
         }    
+        
+       .countryCase__content--right {
+      -webkit-box-align: end;
+          -ms-flex-align: end;
+              align-items: flex-end;
+        }
     }
     
     
