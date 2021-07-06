@@ -1571,6 +1571,7 @@
       .countryCase__box--right {
         background-repeat: no-repeat;
         background-size: cover;
+        align-items: flex-end;
       }
       .countryCase__box--left {
         background-repeat: no-repeat;
