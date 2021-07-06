@@ -1900,6 +1900,10 @@
     
     @media screen and (max-width: 600px) {
         
+        .stickyDonateLink {
+            top: 44rem;
+        }
+        
         .stickyDonateLink__decoration {
         height: 2rem;
         width: 2rem;
