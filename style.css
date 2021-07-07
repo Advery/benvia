@@ -1395,6 +1395,7 @@
     
       .newsBox__card {
         max-width: 580px;
+        padding: unset;
       }
     
     .newsBox__cardBox {
