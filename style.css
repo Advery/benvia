@@ -359,6 +359,7 @@
           -ms-flex-direction: row;
               flex-direction: row;
       text-transform: uppercase;
+      justify-content: space-between;
     }
     
     .navigationWrapper__logo {
