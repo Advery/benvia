@@ -258,7 +258,6 @@
     
     .navigationWrapper__link:hover {
       text-decoration: none;
-      padding-bottom: 0.5rem;
       border-bottom: 2px solid #0672B1;
     }
     
@@ -497,7 +496,6 @@
     
     .navigationWrapper__link:hover {
       text-decoration: none;
-      padding-bottom: 0.5rem;
       border-bottom: 2px solid #0672B1;
     }
     
