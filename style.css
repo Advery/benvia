@@ -57,6 +57,15 @@
     }
 
     /* raisNow */
+    #tamaro-widget.tamaro-widget.tamaro-bp-sm .payment-payment-methods > .main .payment-methods .payment-method .text {
+        font-size: 1.5rem !important;
+    }
+    
+    #tamaro-widget.tamaro-widget.tamaro-bp-sm .payment-payment-methods > .main .payment-methods .payment-method .image {
+    width: 10rem !important;
+    height: 10rem !important;
+    }
+
     #tamaro-widget.tamaro-widget .widget-content .widget-block .widget-block-header .title .position {
         margin-left: .75rem !important;
     }
