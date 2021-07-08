@@ -497,6 +497,7 @@
     .navigationWrapper__link:hover {
       text-decoration: none;
       border-bottom: 2px solid #0672B1;
+      color: #0672B1;
     }
     
     .navigationWrapper__listPoint:first-of-type .navigationWrapper__link:hover {
