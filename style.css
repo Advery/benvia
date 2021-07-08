@@ -55,7 +55,13 @@
               hyphens: auto;
       color: #333;  
     }
-    
+
+    /* cookie */
+
+    .uk-link, a {
+     color: green;
+    }
+
     /* Desktop Navigation*/
     .navigationWrapper {
       background-color: white;
