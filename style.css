@@ -1672,6 +1672,9 @@
       .newsBox__wrapper {
         margin: 0 29rem;
       }
+      .rnw-widget-container {
+        margin: 20%;
+      }    
  
     }
     
@@ -1884,12 +1887,21 @@
       .successStoryBox__button .main__button {
          margin-top: 0;   
       }
+        
+       .rnw-widget-container {
+             margin: 20%;
+       }  
       
     }
     
     
     @media screen and (min-width: 600px) {
         
+        
+
+        .rnw-widget-container {
+             margin: 0;
+        }
 
       
       .successStoryBox__button .main__button {
@@ -2223,12 +2235,8 @@
 
     /* main__button ende */
 
-    /* raisNow */
 
-.rnw-widget-container {
-     margin: 20%;
-}
    
-    /* raisNow ende */
+
     
     
