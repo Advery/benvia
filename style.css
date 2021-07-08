@@ -68,6 +68,10 @@
     #tamaro-widget.tamaro-widget .payment-amounts > .main .amounts .amount .main {
         height: 5rem;
     }
+
+    #tamaro-widget.tamaro-widget .payment-amounts > .main .amounts .amount .main .code {
+        font-size: 1.8rem;
+    }
     /* raisNow ende */
 
     /* cookie */
