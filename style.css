@@ -397,6 +397,7 @@
           -ms-flex-align: center;
               align-items: center;
       height: 100%;
+      margin-right: 5rem;
     }
     
     .navigationWrapper__listPoint--center {
