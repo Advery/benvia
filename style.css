@@ -57,6 +57,10 @@
     }
 
     /* raisNow */
+    #tamaro-widget.tamaro-widget .widget-content .widget-block .widget-block-header .title .position {
+        margin-left: .75rem !important;
+    }
+
     #tamaro-widget-overlay.tamaro-widget.tamaro-widget, #tamaro-widget.tamaro-widget.tamaro-widget {
         background-color: #eaeaea !important;
         font-size: 2rem !important;
