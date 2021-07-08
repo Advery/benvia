@@ -78,7 +78,7 @@
 .form-block.textarea-wrapper.floating-label .label-block, #tamaro-widget.tamaro-widget
 .form-block.input-wrapper.floating-label .label-block, #tamaro-widget.tamaro-widget
 .form-block.select-wrapper.floating-label .label-block, #tamaro-widget.tamaro-widget .form-block.textarea-wrapper.floating-label .label-block {
-    font-size: 70%;
+    font-size: 70% !important;
 }
 
 
