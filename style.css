@@ -508,6 +508,7 @@
       text-decoration: none;
       color: #0672B1;
       font-size: 2rem;
+      line-height: unset;  
     }
 
     
