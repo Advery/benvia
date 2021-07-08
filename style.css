@@ -278,7 +278,6 @@
       font-family: "Lato", sans-serif;
       color: #0672B1;
       font-size: 2rem;
-      padding-bottom: 1.1rem;
       border-bottom: 2px solid white;
       cursor: pointer;
       text-transform: uppercase;
@@ -452,18 +451,7 @@
       transition: all 0.5s ease;
       margin-left: 2rem;  
     }
-  /*  
-    .navigationWrapper__dropbtn {
-      background-color: white;
-      color: #0672B1;
-      font-size: 2rem;
-      border: none;
-      cursor: pointer;
-      text-transform: uppercase;
-      outline: none;
-      margin-left: 1.5rem;
-    }
-  */  
+ 
     .navigationWrapper__dropdown {
       position: relative;
       display: inline-block;
@@ -504,7 +492,7 @@
     
     .navigationWrapper__link {
       border-bottom: 2px solid white;
-      padding-bottom: 0.5rem;
+
     }
     
     .navigationWrapper__link:hover {
@@ -515,7 +503,7 @@
     
     .navigationWrapper__listPoint:first-of-type .navigationWrapper__link:hover {
       text-decoration: none;
-      padding-bottom: 0.5rem;
+
     }
     
     .navigationWrapper__link {
@@ -523,22 +511,7 @@
       color: #0672B1;
       font-size: 2rem;
     }
-    /*
-    .navigationWrapper__dropbtn {
-      background-color: white;
-      font-family: "Lato", sans-serif;
-      color: #0672B1;
-      font-size: 2rem;
-      padding-bottom: 1.1rem;
-      border-bottom: 2px solid white;
-      cursor: pointer;
-      text-transform: uppercase;
-      -webkit-transition: all 0.5s ease;
-      transition: all 0.5s ease;
-      position: relative;
-      display: inline-block;
-    }
-*/
+
     
     .navigationWrapper__dropbtn:focus {
       border: none;
