@@ -106,6 +106,9 @@
         height: 3rem !important;
     }
 
+    #tamaro-widget-overlay.tamaro-widget .btn-text, #tamaro-widget.tamaro-widget .btn-text {
+    font-size: 1.8rem !important;
+    }
 
     /* raisNow ende */
 
