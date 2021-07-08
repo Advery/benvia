@@ -61,6 +61,13 @@
         background-color: #eaeaea !important;
         font-size: 2rem !important;
     }
+    #tamaro-widget.tamaro-widget .widget-content .widget-block .widget-block-header .title .position + .text {
+        font-size: 2rem !important;
+    }
+    
+    #tamaro-widget.tamaro-widget .payment-amounts > .main .amounts .amount .main {
+        height: 5rem;
+    }
     /* raisNow ende */
 
     /* cookie */
