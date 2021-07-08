@@ -56,6 +56,13 @@
       color: #333;  
     }
 
+    /* raisNow */
+    #tamaro-widget-overlay.tamaro-widget.tamaro-widget, #tamaro-widget.tamaro-widget.tamaro-widget {
+        background-color: #eaeaea;
+        font-size: 2rem;
+    }
+    /* raisNow ende */
+
     /* cookie */
 
     .uk-link, a {
