@@ -1145,6 +1145,10 @@
       color: #333;
       margin: 0;
     }
+
+    .successStoryBox__text p {
+     margin: 0;
+    }
     
     .successStoryBox__text:nth-child(1) {
       margin-right: 2rem;
