@@ -428,13 +428,7 @@
       height: 100%;
     }
     
-    .navigationWrapper__listPoint:first-of-type .navigationWrapper__link {
-      margin-left: 2rem;
-    }
-    
-    .navigationWrapper__listPoint:last-of-type .navigationWrapper__link {
-      margin-left: 2rem;
-    }
+
     
     .navigationWrapper__link {
       text-decoration: none;
@@ -442,6 +436,7 @@
       font-size: 2rem;
       -webkit-transition: all 0.5s ease;
       transition: all 0.5s ease;
+      margin-left: 2rem;  
     }
   /*  
     .navigationWrapper__dropbtn {
