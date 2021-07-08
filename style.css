@@ -90,7 +90,7 @@
     }
 
     #tamaro-widget-overlay.tamaro-widget .md-ripple, #tamaro-widget.tamaro-widget .md-ripple {
-        line-height: 2rem;
+        line-height: 2rem !important;
     }
 
 
