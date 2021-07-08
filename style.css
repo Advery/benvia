@@ -374,7 +374,7 @@
       display: -ms-flexbox;
       display: flex;
       width: 80%;
-      margin-left: 5%;
+      margin-left: auto;
       -webkit-box-align: space-between;
           -ms-flex-align: space-between;
               align-items: space-between;
