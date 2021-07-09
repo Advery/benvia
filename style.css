@@ -1940,6 +1940,13 @@
         height: 15rem;
         font-size: 2rem;
         }  
+        
+        .stickyDonateLink2__btnBox:hover {
+        width: 16rem;
+        height: 16rem;
+        border-radius: 10.5rem;
+        font-size: 2.1rem;
+        }
 
       .countryCase__textBoxSmall {
         -webkit-column-count: 1;
