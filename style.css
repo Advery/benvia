@@ -2110,6 +2110,40 @@
         height: 3rem;
         width: 3rem;
        }
+        
+        /*test*/
+         .stickyDonateLink2__wrapper {
+            top: 44rem;
+        }
+        
+        .stickyDonateLink2__heartNav {
+        height: 2rem;
+        width: 2rem;
+       } 
+        
+        
+       .stickyDonateLink2__btnBox {
+        width: 10rem;
+        height: 10rem;
+        font-size: 1.2rem;
+       } 
+        
+       .stickyDonateLink2__btnBox:hover {
+        width: 12rem;
+        height: 12rem;
+        border-radius: 10.5rem;
+        font-size: 1.5rem;
+        } 
+        
+        
+        .stickyDonateLink2__heart {
+        margin-top: 1rem;
+        margin-left: 2rem;
+        margin-right: 2rem;
+        height: 3rem;
+        width: 3rem;
+       }
+        /*test ende*/
     
       .navigationWrapperMobil {
         padding-top: 2rem;
