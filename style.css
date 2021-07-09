@@ -1003,8 +1003,8 @@
 
     .stickyDonateLink2__heartNav {
         cursor: pointer;
-        width: 20px;
-        height: 20px;
+        height: 6rem;
+        width: 4rem;
         margin-right: 2rem;
         background-color: #3eac61;
         display: flex;
