@@ -1024,6 +1024,7 @@
         transition: ease-out 0.3s;
         transform: rotate(-180deg);
         color: white;
+        font-size: 1.2rem;
     }
 
     .stickyDonateLink2__heartNav--closed::after {
