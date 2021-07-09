@@ -2149,6 +2149,10 @@
         height: 3rem;
         width: 3rem;
        }
+        
+        .stickyDonateLink2__heartNav::after {
+        font-size: 1.2rem;
+        }   
         /*test ende*/
     
       .navigationWrapperMobil {
