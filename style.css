@@ -1921,6 +1921,11 @@
         height: 4rem;
         
       }  
+      
+       .stickyDonateLink2__decoration {
+        height: 4rem;
+        
+      }    
         
       
         
@@ -1929,6 +1934,12 @@
         height: 15rem;
         font-size: 2rem;  
        }
+        
+        .stickyDonateLink2__btnBox {
+        width: 15rem;
+        height: 15rem;
+        font-size: 2rem;
+        }  
 
       .countryCase__textBoxSmall {
         -webkit-column-count: 1;
