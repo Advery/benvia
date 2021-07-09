@@ -1053,11 +1053,20 @@
         margin: auto;
         display: flex;
         flex-direction: column;
+        align-items: center;
     }
 
     .stickyDonateLink2__btnBox--hidden {
         opacity: 0;
         visibility: hidden;
+    }
+
+      .stickyDonateLink2__heart {
+      margin-top: 2rem;
+      margin-left: 2rem;
+      margin-right: 2rem;
+      height: 4rem;
+      width: 5rem;
     }
 
     /* DonateLink2 ende */
