@@ -911,6 +911,8 @@
     .new__hamburger:hover div {
       transform: scale(0);
     }
+
+    /* DonateLink */
     
     .stickyDonateLink {
       z-index: 100;
@@ -987,6 +989,63 @@
       height: 4rem;
       width: 5rem;
     }
+
+    /* DonateLink ende */
+
+    /* DonateLink2 */
+    .stickyDonateLink2__wrapper {
+    display: flex;
+    align-items: center;
+    width: max-content;
+    }
+
+    .stickyDonateLink2__heartNav {
+        cursor: pointer;
+        width: 20px;
+        height: 20px;
+    }
+
+    .stickyDonateLink2__heartNav::after {
+        content: "\2A09";
+        display: inline-block;
+        visibility: visible;
+        opacity: 1;
+        transition: ease-out 0.3s;
+        transform: rotate(-180deg);
+        color: white;
+        background-color: #3eac61;
+    }
+
+    .stickyDonateLink2__heartNav--closed::after {
+        transform: rotate(90deg);
+    }
+
+
+    .stickyDonateLink2__btnBox {
+        background-color: #3eac61;
+        visibility: visible;
+        opacity: 1;
+        transition: ease-out 0.8s;
+        height: 80px;
+        width: 80px;
+        border-radius: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+
+    }
+
+    .stickyDonateLink2__button {
+        margin: auto;
+    }
+
+    .stickyDonateLink2__btnBox--hidden {
+        opacity: 0;
+        visibility: hidden;
+    }
+
+    /* DonateLink2 ende */
     
     .homescreenImage {
       width: 100%;
