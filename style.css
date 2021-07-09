@@ -1038,8 +1038,16 @@
 
     }
 
+        .stickyDonateLink2__btnBox:hover {
+        text-decoration: none;
+        color: white;    
+
+    }
+
     .stickyDonateLink2__button {
         margin: auto;
+        display: flex;
+        flex-direction: column;
     }
 
     .stickyDonateLink2__btnBox--hidden {
