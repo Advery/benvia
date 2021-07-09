@@ -1026,13 +1026,15 @@
         visibility: visible;
         opacity: 1;
         transition: ease-out 0.8s;
-        height: 80px;
-        width: 80px;
         border-radius: 50%;
         display: flex;
         justify-content: center;
         align-items: center;
         text-align: center;
+        width: 20rem;
+        height: 20rem;
+        background-color: #3eac61;
+        color: white;
 
     }
 
