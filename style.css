@@ -1006,6 +1006,9 @@
         width: 20px;
         height: 20px;
         margin-right: 2rem;
+        background-color: #3eac61;
+        display: flex;
+        justify-content: center;
     }
 
     .stickyDonateLink2__heartNav::after {
@@ -1016,7 +1019,6 @@
         transition: ease-out 0.3s;
         transform: rotate(-180deg);
         color: white;
-        background-color: #3eac61;
     }
 
     .stickyDonateLink2__heartNav--closed::after {
