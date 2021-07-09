@@ -1943,6 +1943,10 @@
         font-size: 2rem;
         }  
         
+        .stickyDonateLink2__heartNav::after {
+        font-size: 1.5rem;
+        }
+        
         .stickyDonateLink2__btnBox:hover {
         width: 16rem;
         height: 16rem;
