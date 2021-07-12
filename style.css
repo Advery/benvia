@@ -1011,8 +1011,7 @@
         width: 3rem;
         margin-right: 2rem;
         background-color: #3eac61;
-        display: flex;
-        justify-content: center;
+        text-align: center;
         font-size: 1.8rem;
     }
 
@@ -1030,7 +1029,6 @@
         transition: ease-out 0.3s;
         color: white;
         font-size: 1.5rem;
-        transform: rotate(-180deg);
     }
 
     .stickyDonateLink2__heartNav--closed::after {
