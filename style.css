@@ -1016,6 +1016,12 @@
         font-size: 1.8rem;
     }
 
+    .stickyDonateLink2__heartNav--closed {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
     .stickyDonateLink2__heartNav::after {
         content: "\2A09";
         display: inline-block;
