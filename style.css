@@ -1551,6 +1551,7 @@
       .newsBox__card {
         max-width: 580px;
         padding: unset;
+        position: relative;
       }
     
     .newsBox__cardBox {
@@ -1586,7 +1587,7 @@
     
     .newsBox__textBox {
       padding: 4rem;
-      position: relative;
+
     }
     
     .newsBox__date {
@@ -1626,7 +1627,7 @@
 
     .newsBox__cardButton {
         position: absolute;
-        bottom: 0;
+        bottom: 2rem;
     }
     
     @media screen and (min-width: 1750px) {
