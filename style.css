@@ -1586,6 +1586,7 @@
     
     .newsBox__textBox {
       padding: 4rem;
+      position: relative;
     }
     
     .newsBox__date {
@@ -1621,6 +1622,11 @@
           -ms-flex-align: center;
               align-items: center;
       width: 100%;
+    }
+
+    .newsBox__cardButton {
+        position: absolute;
+        bottom: 0;
     }
     
     @media screen and (min-width: 1750px) {
