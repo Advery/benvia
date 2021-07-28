@@ -1033,7 +1033,7 @@
 
     .stickyDonateLink2__heartNav--closed::after {
         content: "\2661";
-        
+        transform: rotate(360deg);
     }
 
 
