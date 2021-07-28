@@ -1076,6 +1076,8 @@
     .stickyDonateLink2__btnBox--hidden {
         opacity: 0;
         visibility: hidden;
+        width: 0;
+        height:0;
     }
 
       .stickyDonateLink2__heart {
@@ -1933,6 +1935,11 @@
     }
     
     @media screen and (max-width: 1200px) {
+        
+        .stickyDonateLink2__btnBox--hidden {
+        width: 0;
+        height:0;
+    }
         
         
       .stickyDonateLink__button:hover {
