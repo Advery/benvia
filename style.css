@@ -1318,6 +1318,10 @@
       text-transform: uppercase;
       margin-bottom: 2rem;
     }
+
+   .otherProjectsSlider__card {
+        position: relative;
+    }
     
     #otherProjectsSlider__button:hover {
      color: #3eac61;
