@@ -1309,6 +1309,10 @@
     .successStoryBox__text:nth-child(1) {
       margin-right: 2rem;
     }
+
+    .otherProjectsSlider__card {
+        position: relative;
+    }
     
     .otherProjectsSlider__title {
       font-size: 5rem;
