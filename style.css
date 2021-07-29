@@ -1640,7 +1640,7 @@
         } 
         .countryCase__image {
             position: absolute;
-            width: 48%;
+            max-width: 48%;
             right: 51%;
             top: -3%;
         }    
