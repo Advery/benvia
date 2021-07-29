@@ -994,7 +994,6 @@
 
     /* DonateLink2 */
     .stickyDonateLink2__wrapper {
-    z-index: 100;
     position: fixed;
     top: 50rem;
     left: 0;    
@@ -1076,7 +1075,7 @@
     .stickyDonateLink2__btnBox--hidden {
         opacity: 0;
         visibility: hidden;
-        z-index:-1;
+
 
     }
 
