@@ -1043,7 +1043,7 @@
         background-color: #3eac61;
         visibility: visible;
         opacity: 1;
-        transition: ease-out 0.8s;
+        transition: ease-out 0.4s;
         border-radius: 50%;
         display: flex;
         justify-content: center;
