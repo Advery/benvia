@@ -996,7 +996,7 @@
     .stickyDonateLink2__wrapper {
     z-index: 1;    
     position: fixed;
-    top: 50rem;
+    top: 68rem;
     left: 0;    
     display: flex;
     align-items: center;
@@ -2150,7 +2150,7 @@
         
         /*test*/
          .stickyDonateLink2__wrapper {
-            top: 44rem;
+            top: 48rem;
         }
         
         .stickyDonateLink2__heartNav {
