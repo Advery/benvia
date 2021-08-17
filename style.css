@@ -1126,6 +1126,12 @@
     
     .mainTitle h2{
       color: #3EAC61;
+      font-size: 2rem;  
+    }
+
+    .mainTitle h3{
+      color: #3EAC61;
+      font-size: 1.8rem;  
     }
     
     .mainTitle__text {
