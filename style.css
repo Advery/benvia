@@ -1330,6 +1330,12 @@
       margin-bottom: 2rem;
     }
 
+    .otherProjectsSlider__date {
+      font-size: 1.8rem;
+      color: #333;
+
+    }
+
    .otherProjectsSlider__card {
         position: relative;
     }
