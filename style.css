@@ -1618,7 +1618,7 @@
       color: #333;
     }
     
-    .newsBox__cardText {
+    .newsBox__textBox p {
       font-size: 1.8rem;
       color: #333;
     }
