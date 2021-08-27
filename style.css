@@ -1547,7 +1547,7 @@
     
     .projectDescription__slider {
       
-      width: 80%;
+      max-width: 80rem;
     }
     
     .newsBox {
