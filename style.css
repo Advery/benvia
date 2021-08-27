@@ -1321,7 +1321,9 @@
       margin-right: 2rem;
     }
 
-
+    .wrapperProjectDescripion {
+        margin-bottom: 6rem;
+    }
     
     .otherProjectsSlider__title {
       font-size: 5rem;
@@ -1710,7 +1712,8 @@
       .singleProjects {
         width: 120rem;
       }
-      .wrapperProjectDescripion {
+      .
+        {
         width: 120rem;
         
       }
