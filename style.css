@@ -1521,9 +1521,9 @@
     }
     
     .mainPictureProject__image {
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
+      display: block;
+      max-width: 60rem;
+      margin-bottom: 6rem;  
     
     }
     
