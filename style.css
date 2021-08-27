@@ -1522,7 +1522,7 @@
     
     .mainPictureProject__image {
       display: block;
-      max-width: 60rem;
+      width: 60rem;
       margin-bottom: 6rem;  
     
     }
